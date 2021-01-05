@@ -1,4 +1,4 @@
-# A webapp for submitting urls
+# A webapp for submitting email and student id
 
 ```
 PROJECTID=$(gcloud config get-value project)
